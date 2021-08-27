@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main (void)
+{
+  string F("there is no fork")
+  
+  cout << endl << F << endl ;
+  
+  return 1;
+}
